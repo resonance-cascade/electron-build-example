@@ -8,6 +8,7 @@ cache:
 
 install:
   - ps: Install-Product node 7 x64
+  - npm install
 
 build_script:
   - npm run dist
