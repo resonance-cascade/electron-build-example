@@ -1,5 +1,5 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-build-example",
   "productName": "Test App",
   "version": "1.0.0",
   "description": "A test app demonstrating an electron build system",
@@ -40,7 +40,7 @@
     "build": "build --dir",
     "dist": "build"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/bcomnes/electron-build-example",
   "keywords": [
     "Electron",
     "quick",
