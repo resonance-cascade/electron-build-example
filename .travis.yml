@@ -1,0 +1,15 @@
+dist: trusty
+language: node_js
+node_js:
+  - 7
+os:
+  - osx
+  - linux
+addons:
+  apt:
+    packages:
+      - icnsutils
+      - graphicsmagick
+      - xz-utils
+after_success:
+  - npm run dist
