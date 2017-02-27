@@ -11,3 +11,5 @@ install:
 
 build_script:
   - npm run dist
+
+test: off
