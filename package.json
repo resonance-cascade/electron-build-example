@@ -1,7 +1,7 @@
 {
   "name": "electron-build-example",
   "productName": "Test App",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A test app demonstrating an electron build system",
   "main": "main.js",
   "build": {
