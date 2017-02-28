@@ -14,3 +14,7 @@ build_script:
   - npm run dist
 
 test: off
+
+environment:
+  GH_TOKEN:
+    secure: H2b1mq+K/miUzkxP1jtaiNwonVsUPMDxqtQknijwNFCmIFjz0DFF7ktgXZ8nzA81
