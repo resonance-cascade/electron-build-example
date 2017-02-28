@@ -5,26 +5,12 @@
   "description": "A test app demonstrating an electron build system",
   "main": "main.js",
   "build": {
-    "appId": "com.hypermodules.dat",
+    "appId": "com.hypermodules.testapp",
     "mac": {
       "category": "public.app-category.utilities",
       "target": [
         "zip",
         "dmg"
-      ]
-    },
-    "dmg": {
-      "contents": [
-        {
-          "x": 220,
-          "y": 200
-        },
-        {
-          "x": 448,
-          "y": 200,
-          "type": "link",
-          "path": "/Applications"
-        }
       ]
     },
     "nsis": {
