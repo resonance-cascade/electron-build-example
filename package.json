@@ -41,7 +41,7 @@
     "electron-builder": "^19.32.2",
     "electron-rebuild": "^1.5.7",
     "mkdirp": "^0.5.1",
-    "npm-run-all": "^4.0.2",
+    "npm-run-all": "^4.1.2",
     "rimraf": "^2.6.1",
     "standard": "^10.0.2"
   },
