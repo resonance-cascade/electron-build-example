@@ -43,7 +43,7 @@
     "mkdirp": "^0.5.1",
     "npm-run-all": "^4.0.2",
     "rimraf": "^2.6.1",
-    "standard": "^10.0.2"
+    "standard": "^11.0.0"
   },
   "dependencies": {
     "cool-ascii-faces": "^1.3.4",
